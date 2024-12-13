@@ -1,0 +1,9 @@
+Website ini merupakan suatu website sistem informasi berupa penampilan faktur barang, website ini pun dibuat dengan tujuan untuk kegiatan kelas praktisi dari PT SOLUSI247
+Berikut Langkah-langkah menjalankan proyek ini
+1) Jalankan Xampp
+2) Siapkan database fakturtoko
+3) Import file sql dengan nama fakturtoko dan running 
+4) Ketika, file sql sudah berhasil diimport
+5) Jalankan file databarang.php, datapemasok.php, datafaktur.php
+6) Website berhasil dijalankan
+
